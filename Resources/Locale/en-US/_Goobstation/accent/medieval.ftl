@@ -25,20 +25,20 @@ accent-medieval-prefix-24 = Kind sire,
 accent-medieval-prefix-25 = Listen thee,
 accent-medieval-prefix-26 = Listen,
 accent-medieval-prefix-27 = Now hear me,
-accent-medieval-prefix-29 = Perchance,
-accent-medieval-prefix-30 = Pray pardon,
-accent-medieval-prefix-31 = Pray tell,
-accent-medieval-prefix-32 = Pray,
-accent-medieval-prefix-33 = Prithee,
-accent-medieval-prefix-34 = Quoth I,
-accent-medieval-prefix-35 = S'wounds,
-accent-medieval-prefix-36 = Sire,
-accent-medieval-prefix-37 = Surely,
-accent-medieval-prefix-38 = There is much in what you say, and yet,
-accent-medieval-prefix-39 = What hey,
-accent-medieval-prefix-40 = What ho,
-accent-medieval-prefix-41 = Z'wounds,
-accent-medieval-words-42 = Zounds,
+accent-medieval-prefix-28 = Perchance,
+accent-medieval-prefix-29 = Pray pardon,
+accent-medieval-prefix-30 = Pray tell,
+accent-medieval-prefix-31 = Pray,
+accent-medieval-prefix-32 = Prithee,
+accent-medieval-prefix-33 = Quoth I,
+accent-medieval-prefix-34 = S'wounds,
+accent-medieval-prefix-35 = Sire,
+accent-medieval-prefix-36 = Surely,
+accent-medieval-prefix-37 = There is much in what you say, and yet,
+accent-medieval-prefix-38 = What hey,
+accent-medieval-prefix-39 = What ho,
+accent-medieval-prefix-40 = Z'wounds,
+accent-medieval-prefix-41 = Zounds,
 
 accent-medieval-words-1 = My milkshake bring all the boys to the yard, and they're like, "it's better than yours." Damn right it's better than yours. I can teach you, but I have to charge!
 accent-medieval-words-replace-1 = Mine milkshake bringeth all yon gentlefolk to mine yard, and lo they reply, "Tis better than thine." Verily, tis better than thine! I couldst apprentice thee, but I wouldst levy a fee!
@@ -140,7 +140,7 @@ accent-medieval-words-33 = botanist
 accent-medieval-words-replace-33 = farmer
 
 accent-medieval-words-34 = botany
-accent-medieval-words-replace-34 = field workers
+accent-medieval-words-replace-34 = the fields
 
 accent-medieval-words-35 = does
 accent-medieval-words-replace-35 = doth
@@ -529,11 +529,11 @@ accent-medieval-words-replace-163 = Arch Wizard
 accent-medieval-words-164 = chief engineer
 accent-medieval-words-replace-164 = Arch Wizard
 
-accent-medieval-words-165 = atmos
-accent-medieval-words-replace-165 = Witches
+accent-medieval-words-165 = atmos tech
+accent-medieval-words-replace-165 = Witch
 
-accent-medieval-words-166 = atmos tech
-accent-medieval-words-replace-166 = Witch
+accent-medieval-words-166 = atmos
+accent-medieval-words-replace-166 = Witches
 
 accent-medieval-words-167 = departments
 accent-medieval-words-replace-167 = wards
@@ -708,3 +708,45 @@ accent-medieval-words-replace-223 = do a jig
 
 accent-medieval-words-224 = danced
 accent-medieval-words-replace-224 = did a jig
+
+accent-medieval-words-225 = tider
+accent-medieval-words-replace-225 = blackguard
+
+accent-medieval-words-226 = tiders
+accent-medieval-words-replace-226 = blackguards
+
+accent-medieval-words-227 = assistant
+accent-medieval-words-replace-227 = blacksguard
+
+accent-medieval-words-228 = assistants
+accent-medieval-words-replace-228 = blacksguards
+
+accent-medieval-words-229 = bot
+accent-medieval-words-replace-229 = the farmers
+
+accent-medieval-words-230 = bartenders
+accent-medieval-words-replace-230 = pubkeepers
+
+accent-medieval-words-231 = dorms 4
+accent-medieval-words-replace-231 = unspeakable filth pit
+
+accent-medieval-words-232 = dorms four
+accent-medieval-words-replace-232 = unspeakable filth pit
+
+accent-medieval-words-233 = room 4
+accent-medieval-words-replace-233 = unspeakable filth pit
+
+accent-medieval-words-234 = dorms4
+accent-medieval-words-replace-234 = unspeakable filth pit
+
+accent-medieval-words-235 = room4
+accent-medieval-words-replace-235 = unspeakable filth pit
+
+accent-medieval-prefix-236 = atmospherics
+accent-medieval-words-replace-236 = Witches
+
+accent-medieval-prefix-237 = do
+accent-medieval-words-replace-237 = dost
+
+accent-medieval-prefix-238 = know
+accent-medieval-words-replace-238 = knoweth
